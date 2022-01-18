@@ -1,4 +1,11 @@
-### Hi there 👋
+<a>
+    <img 
+        src="https://postfiles.pstatic.net/MjAyMjAxMThfMTA0/MDAxNjQyNTE1OTc1MDA2.ZghSwGPGOwWN8GQUatc9NWZqPXAbi4dNSGUG4_g6TVAg.DHhsC9-If9Zh23kdfV6TSztbdTYVUNUSpsTmy24TuwYg.PNG.pscq2020/introduction_github.png?type=w966">
+</a>
+
+### Fixing an intro 🔭
+
+
 
 <!--
 **psxxj/psxxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
