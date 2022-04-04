@@ -5,6 +5,8 @@
 
 ### Tech 🔭
 
+Update a content by using an icon and hashtag(#)
+
 
 
 <!--
