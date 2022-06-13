@@ -19,7 +19,10 @@
 <p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></p>
-Longing a Process
+
+## Interest
+
+## Project
 
 <!--
 **psxxj/psxxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
